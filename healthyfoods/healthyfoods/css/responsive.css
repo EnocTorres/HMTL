@@ -1,0 +1,105 @@
+
+
+@media (max-width: 767px) {
+    .contdetaild {
+        flex: 1;
+        padding: 40px 30px 40px
+    }
+    .contact-form {
+        flex: 1;
+        padding: 30px 15px 30px;
+        transform: none;
+    }
+    .caption-textb {
+    display: none;
+}
+.box-inputs {
+    padding: 15px 0px;
+}
+.form-box.usd::before {
+    left: 0;
+}
+.contact-form .usd input {
+    width: 100%;
+ }
+ .footer__textb.text-left ul {
+    margin-bottom: 15px;
+}
+.footer__textb.text-left h3 {
+    margin-bottom: 5px;
+}
+    .btn {
+        padding: 12px 30px
+    }
+    .pb-80,
+    .pb-100 {
+        padding-bottom: 60px
+    }
+    .pt-80,
+    .pt-70,
+    .pt-130 {
+        padding-top: 60px
+    }
+    .theme__small--title {
+        margin-bottom: 10px
+    }
+    .feature__content>p {
+        margin-bottom: 10px
+    }
+    .feature-area .mb-30 {
+        margin-bottom: 15px;
+    }
+    .feature__img img {
+        margin-bottom: 20px
+    }
+
+    .page-title h3 {
+        font-size: 30px
+    }
+    .applicator img {
+        padding-top: 15px
+    }
+    .applicator .service__thumb--h2 {
+        border: none
+    }
+    .contact-form h2 {
+        font-size: 30px
+    }
+    .contdetaild h3 {
+        font-size: 22px
+    }
+    .hero__caption--h5 h5 {
+        margin-top: 30px
+    }
+    .hero__padding--h5 {
+        padding: 120px 15px 20px;
+        height: auto;
+    }
+    .scroll-top {
+        bottom: 90px;
+        right: 15px;
+        width: 40px;
+        height: 40px
+    }
+    .addressdiv p,
+    .email a,
+    .contact a {
+        display: block
+    }
+    .service.why-student-prefer .row.borders {
+    margin: 0;
+}
+.service.why-student-prefer .row.borders .col-lg-3 {
+    border-bottom: 1px solid #bfbfbf;
+     border-right: none;
+}
+.service.why-student-prefer .row.borders .col-lg-3:last-child {
+    border-bottom:none;
+}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        width: 450px
+    }
+}
